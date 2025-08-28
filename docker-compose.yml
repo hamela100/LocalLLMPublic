@@ -1,4 +1,4 @@
-name: jsec-local-llm-8gbvram-64gbmem
+name: local_llm
 
 services:
   # =======================
